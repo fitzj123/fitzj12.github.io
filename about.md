@@ -8,7 +8,7 @@ Year 9
 
 ### More Information
 
-This is my blog.¡Disfruta!
+This is my blog. ¡Disfruta!
 
 ### Contact me
 
