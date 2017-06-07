@@ -98,6 +98,14 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
 em, i {
   font-style: italic;
 }
@@ -283,13 +291,6 @@ footer {
   text-align: center;
 }
 
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
-}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
