@@ -12,4 +12,4 @@ This is my blog. ¡Disfruta!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fitz.jolly@challoners.org](mailto:fitz.jolly@challoners.org)
