@@ -108,7 +108,7 @@ th, td {
     padding: 8px;
 }
 
-tr:nth-child(even){background-color: #f2f2f2;
+tr:nth-child(even){background-color: #ff99cc;
 tr:nth-child(odd){background-color: #80ffff;
 }
 
@@ -166,7 +166,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  color: #ffccff
+  color: ##ff99cc
 }
 
 .masthead {
@@ -289,12 +289,13 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #ff99cc;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  color: #ff99cc;
 }
 
 
