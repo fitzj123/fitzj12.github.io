@@ -165,6 +165,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+	color: #ffe5ee;
 }
 
 .masthead {
@@ -172,6 +173,7 @@ img {
   border-bottom: 1px solid $lightGray;
   @include mobile {
     text-align: center;
+	color: #ffe5ee;
   }
 }
 
