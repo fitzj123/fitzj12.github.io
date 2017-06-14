@@ -1,5 +1,5 @@
 ---
-title: Making a higher or lower game
+title: Making a Higher or Lower Game
 layout: post
 author: fitz.jolly
 permalink: /making-a-higher-or-lower-game/
